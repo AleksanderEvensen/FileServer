@@ -1,0 +1,12 @@
+{
+  "name": "FileServer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AleksanderEvensen/FileServer.git",
+  "author": "Aleksander Evensen <ahse03@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ip": "^1.1.5"
+  }
+}
